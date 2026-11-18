@@ -1,0 +1,6 @@
+{
+  "name": "BAYBURT ÖZ-KA İNŞAAT CEK KAYIT AKTARMA",
+  "description": "Bayburt Öz-Ka İnşaat Çek Kayıt ve Aktarma Sistemi - Supabase Storage CEKLER/MAMAK entegrasyonu",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
